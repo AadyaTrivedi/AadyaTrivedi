@@ -1,8 +1,12 @@
 # Hi, I'm Aadya 👋
 
 📊 Data Analyst with interest in Financial Markets  
-🐍 Working with Python, Pandas & Data Visualization  
-⚡ Learning Backend Development using FastAPI  
+
+🐍 Python • Pandas • Data Visualization  
+
+⚡ Learning Backend Development (FastAPI)
+
+💡 Interested in combining finance + data + backend systems
 
 ---
 
@@ -14,7 +18,8 @@
 ---
 
 ## 📈 Projects
-- NVIDIA Stock Analysis (trend + insights)  
+- 📈 NVIDIA Stock Analysis  
+  → Performed trend analysis & data visualisation using Python (Pandas, Matplotlib)
 - More coming soon...
 
 ---
