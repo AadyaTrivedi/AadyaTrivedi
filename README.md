@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Aadya 👋
 
-<!--
-**AadyaTrivedi/AadyaTrivedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Data Analyst with interest in Financial Markets  
+🐍 Working with Python, Pandas & Data Visualization  
+⚡ Learning Backend Development using FastAPI  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus
+- Financial Data Analysis  
+- Building APIs for data insights  
+- Exploring backend systems  
+
+---
+
+## 📈 Projects
+- NVIDIA Stock Analysis (trend + insights)  
+- More coming soon...
+
+---
+
+## 📫 Connect with me
+LinkedIn: www.linkedin.com/in/aadya1607
