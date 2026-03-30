@@ -2,24 +2,25 @@
 
 📊 Data Analyst with interest in Financial Markets  
 
-🐍 Python • Pandas • Data Visualization  
+🐍 Python • Pandas • NumPy • Data Visualization  
 
 ⚡ Learning Backend Development (FastAPI)
 
-💡 Interested in combining finance + data + backend systems
+💡 Interested in combining finance, data, and backend systems  
 
 ---
 
 ## 🚀 Current Focus
 - Financial Data Analysis  
-- Building APIs for data insights  
+- Building APIs for data-driven insights  
 - Exploring backend systems  
 
 ---
 
 ## 📈 Projects
 - 📈 NVIDIA Stock Analysis  
-  → Performed trend analysis & data visualisation using Python (Pandas, Matplotlib)
+  → Analyzed stock trends and built visualizations using Python (Pandas, NumPy, Matplotlib)  
+
 - More coming soon...
 
 ---
