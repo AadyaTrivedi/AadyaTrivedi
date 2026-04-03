@@ -27,3 +27,4 @@
 
 ## 📫 Connect with me
 LinkedIn: www.linkedin.com/in/aadya1607
+Email: trivediaadya16@gmail.com
