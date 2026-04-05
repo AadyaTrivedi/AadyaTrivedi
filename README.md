@@ -2,7 +2,7 @@
 
 📊 Data Analyst with interest in Financial Markets  
 
-🐍 Python • Pandas • NumPy • Data Visualization  
+🐍 Python • Pandas • NumPy • Matplotlib 
 
 ⚡ Learning Backend Development (FastAPI)
 
